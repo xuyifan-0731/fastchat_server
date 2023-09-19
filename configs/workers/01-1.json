@@ -1,0 +1,12 @@
+{
+    "workers": [
+        {
+            "port": 10020,
+            "CUDA_VISIBLE_DEVICES": "0"
+        },
+        {
+            "port": 10021,
+            "CUDA_VISIBLE_DEVICES": "1"
+        }
+    ]
+}

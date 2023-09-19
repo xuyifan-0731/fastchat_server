@@ -1,0 +1,36 @@
+{
+    "workers": [
+        {
+            "port": 20020,
+            "CUDA_VISIBLE_DEVICES": "0"
+        },
+        {
+            "port": 20021,
+            "CUDA_VISIBLE_DEVICES": "1"
+        },
+        {
+            "port": 20022,
+            "CUDA_VISIBLE_DEVICES": "2"
+        },
+        {
+            "port": 20023,
+            "CUDA_VISIBLE_DEVICES": "3"
+        },
+        {
+            "port": 20024,
+            "CUDA_VISIBLE_DEVICES": "4"
+        },
+        {
+            "port": 20025,
+            "CUDA_VISIBLE_DEVICES": "5"
+        },
+        {
+            "port": 20026,
+            "CUDA_VISIBLE_DEVICES": "6"
+        },
+        {
+            "port": 20027,
+            "CUDA_VISIBLE_DEVICES": "7"
+        }
+    ]
+}
